@@ -1,0 +1,5 @@
+JWT_KEY="key"
+MySQL_KEY="Lilit.2004"
+PORT=3001
+TMDB_HOST = 'https://api.themoviedb.org/3/movie/popular'
+TMDB_API_KEY = 'a6d50da0e79a2479cc843f4432412d63'
